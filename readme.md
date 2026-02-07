@@ -132,7 +132,7 @@ This produces a **binary change mask** and an **overlay visualization**.
 
 ---
 
-## 🧠 Why CNN when NDVI already shows change?
+##  Why CNN when NDVI already shows change?
 
 | Aspect | NDVI | CNN |
 |------|------|-----|
@@ -166,19 +166,22 @@ CNN answers **“does this look like meaningful change?”**
 ---
 
 ##  Repository Structure
+
+```
 .
 ├── figures/
-│ ├── CNN-CHANGE-PROBABLITY.png
-│ ├── CNN-overlay.png
-│ ├── Nvdi change.png
-│ ├── NVDI-OVERLAY.png
-│ ├── output heat.png
-│ └── output.png
+│   ├── CNN-CHANGE-PROBABLITY.png
+│   ├── CNN-overlay.png
+│   ├── Nvdi change.png
+│   ├── NVDI-OVERLAY.png
+│   ├── output heat.png
+│   └── output.png
 ├── dataset/
 ├── final_research.ipynb
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+```
 
 
 ---
@@ -190,5 +193,5 @@ This project is for educational and research purposes.
 ---
 
 ##  Author
-[Rajvardhan Chhgani] – [chhuganirajvardhan@gmail.com]
+[Rajvardhan Chhugani] – [chhuganirajvardhan@gmail.com]
 Developed as a **remote sensing + deep learning case study** to demonstrate practical urban change detection.
