@@ -87,7 +87,7 @@ This produces a **binary change mask** and an **overlay visualization**.
 ###  RGB Inputs and NDVI Change
 
 #### Bengaluru RGB (2017 vs 2024) and NDVI Change
-![NDVI Change](Figures/Nvdi%20change.png)
+![NDVI Change](Figures/NDVI%20change.png)
 
 ---
 
@@ -97,7 +97,7 @@ This produces a **binary change mask** and an **overlay visualization**.
 ![NDVI Binary Change](Figures/output.png)
 
 #### NDVI Detected Change Overlay (Red)
-![NDVI Overlay](Figures/NVDI-OVERLAY.png)
+![NDVI Overlay](Figures/NDVI-OVERLAY.png)
 
 ---
 
