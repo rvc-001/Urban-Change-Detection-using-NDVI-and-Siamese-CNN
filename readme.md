@@ -193,5 +193,5 @@ This project is for educational and research purposes.
 ---
 
 ##  Author
-[Rajvardhan Chhugani] – [chhuganirajvardhan@gmail.com]
-Developed as a **remote sensing + deep learning case study** to demonstrate practical urban change detection.
+-Rajvardhan Chhugani – chhuganirajvardhan@gmail.com
+-Developed as a **remote sensing + deep learning case study** to demonstrate practical urban change detection.
