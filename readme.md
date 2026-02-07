@@ -30,7 +30,7 @@ The goal is to compare pixel-level spectral change with learned spatial–contex
 
 ---
 
-## 🔬 Methodology
+##  Methodology
 
 ###  NDVI-based Change Detection
 
@@ -77,41 +77,41 @@ This produces a **binary change mask** and an **overlay visualization**.
 ### CNN Change Probability & Overlay
 
 #### CNN Change Probability Map
-![CNN Change Probability](figures/CNN-CHANGE-PROBABLITY.png)
+![CNN Change Probability](Figures/CNN-CHANGE-PROBABLITY.png)
 
 #### CNN Change Overlay (Red = Detected Change)
-![CNN Change Overlay](figures/CNN-overlay.png)
+![CNN Change Overlay](Figures/CNN-overlay.png)
 
 ---
 
 ###  RGB Inputs and NDVI Change
 
 #### Bengaluru RGB (2017 vs 2024) and NDVI Change
-![NDVI Change](figures/Nvdi%20change.png)
+![NDVI Change](Figures/Nvdi%20change.png)
 
 ---
 
 ###  NDVI Binary Change & Overlay
 
 #### NDVI Binary Change Map (Threshold = 0.1)
-![NDVI Binary Change](figures/output.png)
+![NDVI Binary Change](Figures/output.png)
 
 #### NDVI Detected Change Overlay (Red)
-![NDVI Overlay](figures/NVDI-OVERLAY.png)
+![NDVI Overlay](Figures/NVDI-OVERLAY.png)
 
 ---
 
 ### NDVI vs CNN – Heatmap Comparison
 
 #### NDVI Change vs CNN Change Confidence
-![NDVI vs CNN Heatmap](figures/output%20heat.png)
+![NDVI vs CNN Heatmap](Figures/output%20heat.png)
 
 ---
 
 ###  Final Side-by-Side Comparison
 
 #### RGB (2024) | NDVI-based Change | CNN Confidence
-![Final Comparison](figures/output.png)
+![Final Comparison](Figures/output.png)
 
 ---
 
