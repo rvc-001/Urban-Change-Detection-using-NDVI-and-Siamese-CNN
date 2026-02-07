@@ -172,8 +172,8 @@ CNN answers **“does this look like meaningful change?”**
 ├── figures/
 │   ├── CNN-CHANGE-PROBABLITY.png
 │   ├── CNN-overlay.png
-│   ├── Nvdi change.png
-│   ├── NVDI-OVERLAY.png
+│   ├── NDVI change.png
+│   ├── NDVI-OVERLAY.png
 │   ├── output heat.png
 │   └── output.png
 ├── dataset/
