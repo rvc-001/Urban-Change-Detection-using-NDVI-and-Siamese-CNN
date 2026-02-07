@@ -36,15 +36,15 @@ The goal is to compare pixel-level spectral change with learned spatial–contex
 
 NDVI is computed as:
 
-\[
+$$
 NDVI = \frac{NIR - Red}{NIR + Red}
-\]
+$$
 
 Change is calculated as:
 
-\[
+$$
 \Delta NDVI = NDVI_{2024} - NDVI_{2017}
-\]
+$$
 
 Vegetation loss is detected using a fixed threshold:
 
