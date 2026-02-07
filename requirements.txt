@@ -1,0 +1,26 @@
+# Core scientific stack
+numpy
+matplotlib
+scipy
+
+# Geospatial
+rasterio
+shapely
+pyproj
+
+# Google Earth Engine
+earthengine-api
+geemap
+
+# Computer Vision
+opencv-python
+Pillow
+
+# Deep Learning
+torch
+torchvision
+tqdm
+
+# Jupyter
+notebook
+ipykernel

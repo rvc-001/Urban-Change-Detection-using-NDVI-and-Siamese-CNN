@@ -1,0 +1,59 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# =========================
+# Virtual environments
+# =========================
+venv/
+.env/
+.env.*
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# =========================
+# Data files (DO NOT PUSH)
+# =========================
+data/
+dataset/
+*.tif
+*.tiff
+*.npy
+*.npz
+*.h5
+
+# =========================
+# Earth Engine / GEE
+# =========================
+earthengine/
+.credentials/
+*.json
+*.pem
+
+# =========================
+# OS / Editor
+# =========================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Model checkpoints
+# =========================
+*.pt
+*.pth
+checkpoints/
