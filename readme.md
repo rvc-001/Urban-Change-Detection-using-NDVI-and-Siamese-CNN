@@ -138,8 +138,8 @@ This produces a **binary change mask** and an **overlay visualization**.
 |------|------|-----|
 | Interpretability | High | Medium |
 | Noise sensitivity | High | Low |
-| Context awareness | No | ✅ |
-| Shape learning | No | ✅ |
+| Context awareness | No | Yes |
+| Shape learning | No | Yes |
 | Generalization | Limited | Strong |
 
 NDVI answers **“did reflectance change?”**  
